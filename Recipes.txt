@@ -4,5 +4,8 @@ Pizza
 Pasta
 Chicken fried rice
 
+Beans
+Carrot
+
 
 Thank you
